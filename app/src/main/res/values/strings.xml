@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FinalTodo</string>
+    <string name="splash_welcome">Todo App Final
+        © 6,17,2020, Pujan Khanal
+    </string>
+
+    <string name="login_login">Login</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_username_required">Username Required!!</string>
+    <string name="login_password_required">Password Required!!</string>
+    <string name="login_invalid_login">Invalid Username or Password</string>
+    <string name="login_cancel">Cancel</string>
+    <string name="login_signin">Sign In</string>
+
+
+    <string name="quit_application">Do you want to quit application?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Title">Title</string>
+    <string name="edit_description">Description</string>
+    <string name="edit_date">Date</string>
+    <string name="edit_priority">Priority</string>
+    <string name="edit_high">High</string>
+    <string name="edit_medium">Medium</string>
+    <string name="edit_low">Low</string>
+    <string name="edit_is_completed">Is Complete</string>
+    <string name="save">Save</string>
+    <string name="edit_cancel_prompt">Do you want to return back to main screen?</string>
+
+    <string name="crud_save">Todo Saved.</string>
+    <string name="crud_deletebyid">Swapped item is deleted.</string>
+    <string name="crud_deleteall">All items deleted.</string>
+    <string name="crud_upadated">Updated</string>
+
+    <string name="edit_update">Update</string>
+    
+</resources>
